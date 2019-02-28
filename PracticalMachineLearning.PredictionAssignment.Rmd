@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning. Prediction Assignment"
 author: "Sergey Bogdanov"
-date: '20 февраля 2019 г '
+date: '20 Feb 2019 г '
 output: html_document
 ---
 
